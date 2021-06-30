@@ -24,7 +24,7 @@ git clone https://github.com/runlin-wang/nerd-font-Fira-Code-windows.git
 
 ## Usage
 
-[download](https://github.com/runlin-wang/nerd-font-Fira-Code-windows/releses)  
+[download](https://github.com/runlin-wang/nerd-font-Fira-Code-windows/releases)  
 Install these fonts to your Windows system.
 
 ## Author
