@@ -10,11 +10,7 @@
 
 **English** | [中文](README_zh.md)
 
-> description
-
-### 🏠 [Homepage](https://runlin-wang.github.io/nerd-font-Fira-Code-windows)
-
-### ✨ [Demo](https://runlin-wang.github.io/nerd-font-Fira-Code-windows)
+> nerd-font-Fira-Code-windows 
 
 ## Install
 
